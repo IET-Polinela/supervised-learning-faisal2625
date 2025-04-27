@@ -1,0 +1,24 @@
+Residual Plot (Polynomial Degree 2)
+Number of samples: 225
+Mean of residuals: -3644.1375632807944
+Standard deviation of residuals: 102160.63603277713
+
+Residual Plot (Polynomial Degree 3)
+Number of samples: 225
+Mean of residuals: 25771.771979682515
+Standard deviation of residuals: 318158.4954248574
+
+Residual Distribution (Polynomial Degree 2)
+Mean of residuals: 0.0915379340342074
+Standard deviation of residuals: 0.5043760952878519
+Max residual: 1.6832377346313556
+Min residual: -0.9643925148507537
+
+Residual Distribution (Polynomial Degree 3)
+Mean of residuals: 0.01531079713044531
+Standard deviation of residuals: 0.5006792028126519
+Max residual: 1.2176002543060536
+Min residual: -1.1277042175911869
+
+---------- End of Histogram Analysis ----------
+
